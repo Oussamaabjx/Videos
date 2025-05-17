@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Sample Video 1",
+    "thumbnailUrl": "https://oussamaabjx.github.io/Thumbnails/vid1.jpg",
+    "videoUrl": "https://oussamaabjx.github.io/Videos/vid1.mp4"
+  },
+  {
+    "title": "Sample Video 2",
+    "thumbnailUrl": "https://oussamaabjx.github.io/Thumbnails/vid2.jpg",
+    "videoUrl": "https://oussamaabjx.github.io/Videos/vid2.mp4"
+  }
+]
